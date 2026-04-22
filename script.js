@@ -4,4 +4,6 @@
 // minhaVar = "Agora é um texto";
 // minhaVar = true;
 
-const numero = 0;
+const numero = 1;
+
+console.log(script.js)
